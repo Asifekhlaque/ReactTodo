@@ -3,7 +3,7 @@
 A simple and clean Todo Reminder app built with React, React Hook Form, React Toastify, and Nanoid.
 You can create todos, track them, and display reminders with a smooth UI.
 
-# 🚀 Features
+## 🚀 Features
 
 - Add a new Todo/Reminder
 
@@ -17,7 +17,7 @@ You can create todos, track them, and display reminders with a smooth UI.
 
 - Responsive & modern UI with Tailwind CSS
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - React.js – Frontend Library
 
