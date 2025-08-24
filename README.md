@@ -36,8 +36,6 @@ You can create todos, track them, and display reminders with a smooth UI.
 - Get instant success notification
 - Add can delete it
 
-## Todos are added with a unique ID and completion flag (isDone: false)
-
 ## 📸 Screenshot
 
 <img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/776cda55-1cd8-496f-a536-4bdb03548273" />
