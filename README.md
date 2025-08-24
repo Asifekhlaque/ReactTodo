@@ -68,4 +68,5 @@ npm install react-hook-form react-toastify nanoid
 
 ## 📸 Screenshot
 
-(Add your app screenshot here once ready)
+<img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/776cda55-1cd8-496f-a536-4bdb03548273" />
+
