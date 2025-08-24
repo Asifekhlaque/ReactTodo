@@ -29,34 +29,6 @@ You can create todos, track them, and display reminders with a smooth UI.
 
 - Tailwind CSS – Styling
 
-
-## ⚡ Installation
-
-Clone the repository
-```
-git clone https://github.com/your-username/todo-reminder-app.git
-```
-
-## Navigate into the project folder
-```
-cd todo-reminder-app
-```
-
-## Install dependencies
-```
-npm install
-```
-
-## Run the project
-```
-npm start
-```
-## 📦 Dependencies
-
-Make sure you install these if not already:
-```
-npm install react-hook-form react-toastify nanoid
-```
 ## 🎯 Usage
 
 - Enter your task in the input field
