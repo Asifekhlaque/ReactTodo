@@ -5,17 +5,17 @@ You can create todos, track them, and display reminders with a smooth UI.
 
 # 🚀 Features
 
-Add a new Todo/Reminder
+- Add a new Todo/Reminder
 
-Form validation using React Hook Form
+- Form validation using React Hook Form
 
-Unique IDs generated with Nanoid
+- Unique IDs generated with Nanoid
 
-Success notification using React Toastify
+- Success notification using React Toastify
 
-Reset form after submission
+- Reset form after submission
 
-Responsive & modern UI with Tailwind CSS
+- Responsive & modern UI with Tailwind CSS
 
 # 🛠️ Tech Stack
 
